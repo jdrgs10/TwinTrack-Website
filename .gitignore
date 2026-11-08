@@ -1,0 +1,7 @@
+/qa/
+/.wrangler/
+/node_modules/
+.env
+.env.*
+*.log
+*.zip
